@@ -8,5 +8,5 @@ galaxy_info:
     - common
 
 dependencies:
-  - git+https://github.com/jksmth/ansible-role-packages
+  - src: git+https://github.com/jksmth/ansible-role-packages
     version: main
