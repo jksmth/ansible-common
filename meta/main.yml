@@ -7,4 +7,6 @@ galaxy_info:
   galaxy_tags:
     - common
 
-dependencies: []
+dependencies:
+  - git+https://github.com/jksmth/ansible-role-packages
+    version: main
